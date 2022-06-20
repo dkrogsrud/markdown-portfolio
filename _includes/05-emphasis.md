@@ -1,5 +1,5 @@
 Some *italic* text
-Also _italic* text
+Also _italic_ text
 
 Have some **bold** text
 More __bold__ text
